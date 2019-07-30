@@ -43,6 +43,7 @@ defaults:
 # to override the default setting.
 exclude:
     - pull_md.sh
+    - LocalFiles/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
